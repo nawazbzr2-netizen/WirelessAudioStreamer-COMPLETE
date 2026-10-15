@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wireless Audio Streamer</string>
+    <string name="role_setup_title">Choose your role</string>
+    <string name="role_sender">Sender (this phone plays sound)</string>
+    <string name="role_receiver">Receiver (this phone hears sound)</string>
+    <string name="pin_label">Shared PIN (same on both phones)</string>
+    <string name="pin_hint">4–8 digits</string>
+    <string name="continue_btn">Continue</string>
+    <string name="main_title">Devices</string>
+    <string name="tab_wifi">Wi-Fi</string>
+    <string name="tab_bt">Bluetooth</string>
+    <string name="start_listening">Start listening</string>
+    <string name="stop_listening">Stop listening</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="settings">Settings</string>
+    <string name="volume">Volume</string>
+    <string name="status_idle">Ready</string>
+    <string name="status_listening">Listening for sender…</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_streaming">Streaming</string>
+    <string name="status_reconnecting">Connection lost, trying to reconnect…</string>
+    <string name="status_bt_off">Bluetooth is off or unavailable. Turn it on.</string>
+    <string name="status_bt_connecting">Connecting over Bluetooth…</string>
+    <string name="status_wrong_pin">Sound cannot be decrypted. Use the same PIN on both phones.</string>
+    <string name="status_capture_failed">Could not start capturing the sound</string>
+    <string name="status_projection_stopped">Screen cast was stopped</string>
+    <string name="status_start_failed">Could not start the service</string>
+    <string name="perm_audio">The audio recording permission is required to capture the phone internal sound (it does not use the microphone).</string>
+    <string name="perm_bt">The Bluetooth permission is required</string>
+    <string name="cast_denied">Screen cast permission was not granted (needed to capture the sound)</string>
+</resources>
